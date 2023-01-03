@@ -1,0 +1,49 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) RX Vega 11 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     2032 MB
+    Driver:   31.0.12029.10015
+Begin MonoManager ReloadAssembly
+Platform assembly: L:\Programation\TCC_ETEC\MirimBr_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading L:\Programation\TCC_ETEC\MirimBr_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: L:\Programation\TCC_ETEC\MirimBr_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading L:\Programation\TCC_ETEC\MirimBr_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: L:\Programation\TCC_ETEC\MirimBr_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading L:\Programation\TCC_ETEC\MirimBr_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: L:\Programation\TCC_ETEC\MirimBr_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading L:\Programation\TCC_ETEC\MirimBr_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+Platform assembly: L:\Programation\TCC_ETEC\MirimBr_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: L:\Programation\TCC_ETEC\MirimBr_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.269500 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.278800 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.673800 ms (FindLiveObjects: 0.022600 ms CreateObjectMapping: 0.018600 ms MarkObjects: 0.124500 ms  DeleteObjects: 0.507200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.263300 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.129300 ms (FindLiveObjects: 0.012700 ms CreateObjectMapping: 0.018200 ms MarkObjects: 0.074100 ms  DeleteObjects: 0.023700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.245200 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.759000 ms (FindLiveObjects: 0.025600 ms CreateObjectMapping: 0.021900 ms MarkObjects: 0.130900 ms  DeleteObjects: 0.579200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.916300 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.226700 ms (FindLiveObjects: 0.026600 ms CreateObjectMapping: 0.019000 ms MarkObjects: 0.117100 ms  DeleteObjects: 0.063000 ms)
+
